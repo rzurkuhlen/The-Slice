@@ -1,11 +1,20 @@
 /***
 Header Styles
 ***/
-body {
-    background-color: #c9880e
+* {
+    font-family:helvetica;
 }
 
-.org {
+h1{
+    font-family: helvetica;
+}
+
+h2{
+    font-family: helvetica;
+}
+
+body {
+    background-color: #c9880e
 }
 
 header {
